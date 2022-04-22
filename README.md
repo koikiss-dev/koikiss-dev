@@ -1,7 +1,7 @@
 # ¡Hola mundo! 👋
 Soy un desarrolador web **Hondureño**  con un gusto enorme por **ReactJs** y **Python** ❤️ y con muchas ganas de seguir aprendiendo sobres más tegnologias. 
 
-Me gusta anime y de ese gusto decidi hacer uno de mis proyectos que me reto mucho en su momento. 
+Me gusta el anime y de ese gusto decidi hacer uno de mis proyectos que me reto mucho en su momento. 
 ## AnimeList
 > *Una pagina web dedicada a saber la información de cada anime en el mundo.*
 
