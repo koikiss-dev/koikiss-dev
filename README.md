@@ -4,7 +4,7 @@ Hi 👋 My name is Jorge Durón
 Web Developer and Designer
 --------------------------
 
-Hi I am Jorge, a Honduran programmer experienced in web development. web developer, trained in all stages of development. Bringing experience in design, installation, testing and maintenance of web systems. web systems. Equipped with a diverse and promising skill set. Experience with ReactJS
+Hi, I am Jorge, a Honduran programmer with experience in web development. Trained in all stages of development. Bringing experience in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill set. Experience with ReactJS
 
 * 🌍  I'm based in Honduras
 * 🖥️  See my portfolio at [My portfolio](http://portafolio-jorgedev.vercel.app/)
