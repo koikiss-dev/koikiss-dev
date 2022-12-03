@@ -7,7 +7,7 @@ Web Developer and Designer
 Hi, I am Jorge, a Honduran programmer with experience in web development. Trained in all stages of development. Bringing experience in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill set. Experience with ReactJS
 
 * 🌍  I'm based in Honduras
-* 🖥️  See my portfolio at [My portfolio](http://portafolio-jorgedev.vercel.app/)
+* 🖥️  See my portfolio at [My portfolio](https://jorge-duron.netlify.app/)
 * ✉️  You can contact me at [duronj08@gmail.com](mailto:duronj08@gmail.com)
 * 🚀  I'm currently working on [Wallpaper Gen](http://wallpaper-pro.netlify.app/)
 * 🤝  I'm open to collaborating on Interesting projects
