@@ -4,7 +4,13 @@ Hi 👋 My name is Jorge Durón
 Web Developer and Designer
 --------------------------
 
-Hi, I am Jorge, a Honduran programmer with experience in web development. Trained in all stages of development. Bringing experience in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill set. Experience with ReactJS
+Hi, my name is Jorge and I am a junior web developer from Honduras. I have always been interested in technology and the way it can improve people's lives, so I decided to pursue a career in web development.
+
+I have experience working on my own projects using ReactJS, NextJS, Figma, and nodeJS. I am always looking for ways to improve my skills and learn new technologies.
+
+In my free time, I enjoy participating in hackathons and attending tech meetups to stay up to date with the latest trends in the industry. I am also a big fan of open source software and like to contribute to projects whenever I can.
+
+I am always looking for new opportunities to grow as a developer and make an impact in the tech industry. I believe that with hard work and dedication, anything is possible.
 
 * 🌍  I'm based in Honduras
 * 🖥️  See my portfolio at [My portfolio](https://jorge-duron.netlify.app/)
