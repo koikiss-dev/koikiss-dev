@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hi 👋 My name is Jorge Durón<br>============================<br><br>Web Developer and Designer<br>--------------------------<br><br>Hi, my name is Jorge and I am a junior web developer from Honduras. I have always been interested in technology and the way it can improve people's lives, so I decided to pursue a career in web development.<br><br>I have experience working on my own projects using ReactJS, NextJS, Figma, and nodeJS. I am always looking for ways to improve my skills and learn new technologies.<br><br>In my free time, I enjoy participating in hackathons and attending tech meetups to stay up to date with the latest trends in the industry. I am also a big fan of open source software and like to contribute to projects whenever I can.<br><br>I am always looking for new opportunities to grow as a developer and make an impact in the tech industry. I believe that with hard work and dedication, anything is possible.<br><br>* 🌍  I'm based in Honduras<br>* 🖥️  See my portfolio at [My portfolio](https://jorge-duron.netlify.app/)<br>* ✉️  You can contact me at [duronj08@gmail.com](mailto:duronj08@gmail.com)<br>* 🚀  I'm currently working on [Wallpaper Gen](http://wallpaper-pro.netlify.app/)<br>* 🤝  I'm open to collaborating on Interesting projects
+Hi 👋, My name is Jorge Durón, a web developer and designer based in Honduras. I have a passion for technology and its potential to make a positive impact on people's lives.
+
+# Experience and Skills
+As a junior web developer, I have experience working on personal projects using ReactJS, NextJS, Figma, and nodeJS. I am always eager to improve my skills and learn new technologies to keep up with the latest trends in the industry.
+
+# Hobbies and Interests
+In my free time, I enjoy participating in hackathons and attending tech meetups to stay up-to-date with the latest developments in the industry. I am also a big fan of open-source software and like to contribute to projects whenever possible.
+
+# Goals
+As a developer, I am always seeking new opportunities to grow and make a significant impact in the tech industry. I believe that with hard work and dedication, anything is possible.
+
+# Contact Information
+If you would like to get in touch with me, here is some useful information:
+* 🌍  I'm based in Honduras
+* 🖥️  See my portfolio at [My portfolio](https://jorge-duron.netlify.app/)
+* ✉️  You can contact me at [duronj08@gmail.com](mailto:duronj08@gmail.com)
+* 🚀  I'm currently working on [Wallpaper Gen](http://wallpaper-pro.netlify.app/)
+* 🤝  I'm open to collaborating on Interesting projects
 
 
 ## 🌐 Socials:
