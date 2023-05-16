@@ -15,7 +15,7 @@ If you would like to get in touch with me, here is some useful information:
 * 🌍  I'm based in Honduras
 * 🖥️  See my portfolio at [My portfolio](https://jorge-duron.netlify.app/)
 * ✉️  You can contact me at [duronj08@gmail.com](mailto:duronj08@gmail.com)
-* 🚀  I'm currently working on [Wallpaper Gen](http://wallpaper-pro.netlify.app/)
+* 🚀  I'm currently working on [Jimov Api](https://github.com/koikiss-dev/jimov_api)
 * 🤝  I'm open to collaborating on Interesting projects
 
 
