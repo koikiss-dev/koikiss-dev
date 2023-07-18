@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 Hi 👋, My name is Jorge Durón, a web developer and designer based in Honduras. I have a passion for technology and its potential to make a positive impact on people's lives.
 
 # Experience and Skills
