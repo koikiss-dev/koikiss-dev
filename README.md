@@ -1,9 +1,6 @@
 # About Me:
 Hi 👋, My name is Jorge Durón, a web developer and designer based in Honduras. I have a passion for technology and its potential to make a positive impact on people's lives.
 
-# Goals
-As a developer, I am always seeking new opportunities to grow and make a significant impact in the tech industry. I believe that with hard work and dedication, anything is possible.
-
 # Contact Information
 If you would like to get in touch with me, here is some useful information:
 * 🖥️  See my portfolio at [My portfolio](https://bento.me/yako)
