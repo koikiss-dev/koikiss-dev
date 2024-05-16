@@ -1,4 +1,4 @@
-#Hi 👋
+# Hi 👋
 
 # Contact Information
 * 🖥️  See my portfolio at [My portfolio](https://bento.me/yako)
